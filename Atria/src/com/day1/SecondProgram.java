@@ -16,7 +16,7 @@ String name,usn,branch;
  System.out.println("the name "+name);
  System.out.println("the usn" +usn);
  System.out.println("the branch"+branch);
- System.out.println("the mrks" + marks);
+ System.out.println("the marks" + marks);
 	}
 
 }

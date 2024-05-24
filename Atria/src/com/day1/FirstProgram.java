@@ -14,8 +14,8 @@ public class FirstProgram {
 	 res2=n1-n2;
 	 res3=n1*n2;
 	 res4=n1/n2;
-	 System.out.println("the sum is" +res1);
-	 System.out.println("the diff is" +res2);
+	 System.out.println("the diff is" +res1);
+	 System.out.println("the sum is" +res2);
 	 System.out.println("the mul is" +res3);
 	 System.out.println("the div is" +res4);
 	}
