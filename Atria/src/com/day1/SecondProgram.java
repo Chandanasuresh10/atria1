@@ -14,9 +14,9 @@ String name,usn,branch,address;
  marks=sc.nextFloat();
  address=sc.nextLine();
  System.out.println("The details are : ");
- System.out.println("the name "+name);
+ System.out.println("the name " +name);
  System.out.println("the usn" +usn);
- System.out.println("the branch"+branch);
+ System.out.println("the branch" +branch);
  System.out.println("the marks" + marks);
  System.out.println("the address" + address);
 	}
